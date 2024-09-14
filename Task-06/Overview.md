@@ -1,0 +1,2 @@
+# Approach and Review on Task
+In this Task we need to write the documentation on a open-source repository. I searched for a few but I didn't find any good one then I asked one of my mentor for any suggestion on open source repo.I was suggested by neofetch and FastAPI I chose FastAPI and have created a README.md file and Doucumentation.md file. By using tree command in the terminal I created a directory structure of the repo. With this I was done with the task.   
