@@ -1,0 +1,2 @@
+# Approach and Review on Task 
+This task was basically to create a telegram bot using python. I watched some of the tutorial videos in youtube to create a bot using API.We use Google API in this task to get the information of books like title,author,preview link, etc. I managed to write the code and execute successfully for 3 of the gven commands i.e start,book,preview and I was not able to complete the code for list and reading list.
