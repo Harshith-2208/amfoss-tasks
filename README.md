@@ -20,5 +20,5 @@ My fields of intrest in terms of technology are Developing and problem solving a
 | [Task_06](https://github.com/Harshith-2208/amfoss-tasks/tree/main/Task-06)   | Open Docs | Completed |
 | Task_07  |  Pirate's Dilemma | Not Attempted |
 | [Task_08](https://github.com/Harshith-2208/amfoss-tasks/tree/main/Task-08)   | Blog Burst | Completed |
-| Task_09  | HERO-DEX |Not Attempeted |
+| Task_09  | HERO-DEX |Not Attempted |
 | Task_10  |  Operation Pixel Merge |Not Attempted|
